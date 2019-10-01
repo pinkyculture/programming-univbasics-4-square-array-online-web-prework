@@ -18,6 +18,7 @@ def square_array(array)
   
 end
   
+  
 end
 
 # new_array.each 

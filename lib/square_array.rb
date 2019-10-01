@@ -6,10 +6,12 @@ end
 
 
 
-while(numbers)
+
 
 def square_array(array)
-   = [1, 2, 3]
-  numbers.each 
-^(numbers) 
+  new_array = [1, 2, 3]
+  
 end
+
+# new_array.each 
+# while
